@@ -1,11 +1,9 @@
-### Hallo, I'm Claire Violet, a trans software engineer, designer, and photographer. 🏳️‍⚧️ 
-- My pronouns are she/her or it/its, whichever you feel most comfortable using.
-- I live in beautiful, sunny Capitol Hill, Seattle, Washington. 
-- I graduated from the Clemson University, School of Computing!
-- I'm currently writing Typescript + React full-time in a frontend role focusing on design systems for the web, on a developer experience team.
-- In my free time, I'm a film photographer. You can find more information about that on my website.
-- Also, I volunteer as an archivist at the [@connectionsmuseum](https://github.com/connectionsmuseum).
+#### Hi, my name is Claire Violet. I'm a trans software engineer, archivist, and photographer. My pronouns are she/her or it/its, whichever you feel most comfortable using. I live in beautiful, sunny Capitol Hill, Seattle, Washington. 
+- For work, I write Typescript + React in a frontend role on a developer experience team. My focus is on improving our design system.
+- I graduated from Clemson University's School of Computing.
+- Also, I volunteer as an archivist at the [@connectionsmuseum](https://github.com/connectionsmuseum), a museum of electromechanical telephone switches from 1923—2005, located in Seattle's Georgetown neighborhood.
+- In my free time, I'm a film photographer. You can find more information about that on one of my websites.
 
-![000010890030](https://github.com/user-attachments/assets/46ce305b-ee86-4e66-9732-05a2f93b3332)
-> Tools for fixing the Panel Switch, designed in the 1910s by Bell Labs, and built by Western Electric. 
-> Taken with my Nikon F, Portra 800 ISO.
+![30ADBB9C-E909-47D8-A911-C4E6EEE089D9_1_102_o](https://github.com/user-attachments/assets/846e15da-db7d-46df-b049-954dab357f2e)
+> Seattle's Pike Place Market in August, 2025. 
+> Taken with my Hasselblad X-Pan, 45mm f4 lens, on Kodak Ektar 100 ISO 35mm film.
