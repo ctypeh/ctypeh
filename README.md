@@ -1,8 +1,8 @@
 ### Hi, my name is Claire Violet. 
 #### I'm a trans software engineer, photographer, and archivist. My pronouns are she/her or it/its, whichever you feel most comfortable using. I live in beautiful, sunny Capitol Hill, Seattle, Washington. 
 
-![30ADBB9C-E909-47D8-A911-C4E6EEE089D9_1_102_o](https://github.com/user-attachments/assets/846e15da-db7d-46df-b049-954dab357f2e)
-> Seattle's Pike Place Market in August, 2025. Taken with my [Hasselblad X-Pan, 45mm f4 lens](https://ultraviolet.photo/pages/gear.html), on Kodak Ektar 100 ISO 35mm film. Developed and scanned by Panda Lab of Seattle, WA.
+![000057320013](https://github.com/user-attachments/assets/03bf1b9a-0a30-4426-83c2-f0bf529289a3)
+> Detail from Seattle's Pike Place Market in January, 2026. Taken with my [Hasselblad X-Pan, 90mm f4 lens](https://ultraviolet.photo/pages/gear.html), on Kodak Ektar 100 ISO 35mm film. Developed and scanned by Panda Lab of Seattle, WA.
 
 <hr/>
 
